@@ -23,7 +23,7 @@ app.get("/", (req,res) =>{
 //   });
 
 app.use('/wineries', wineriesRoutes);
-app.use('/details', wineriesDetailsRoutes);
+app.use('/details/:id', wineriesDetailsRoutes);
 
 
 app.listen(PORT, () => {
