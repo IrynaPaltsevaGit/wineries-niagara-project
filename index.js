@@ -18,12 +18,9 @@ app.get("/", (req,res) =>{
     console.log('I received a GET request!');
 });
 
-// app.get("/wine",(req, res, next) =>{
-//     res.send("http://localhost:8080/files/types-of-wine-643846a6a95b4.jpg")
-//   });
 
 app.use('/wineries', wineriesRoutes);
-app.use('/details/:id', wineriesDetailsRoutes);
+app.use('/details', wineriesDetailsRoutes);
 
 
 app.listen(PORT, () => {

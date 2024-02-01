@@ -11,8 +11,12 @@ const readWineriesDetails = () =>{
 }
 
 // get videos
-router.get('/', (req, res) =>{
-    res.send(readWineriesDetails());
+router.get('/:id', (req, res) =>{
+    console.log(req.params)
+    res.send(
+        
+        readWineriesDetails().find(winery => winery.id === req.params.id)
+        );
 });
 
 
