@@ -5,7 +5,7 @@
     "about": "Niagara's Only Lakefront Winery. Founded in 1893 outside of Stuttgart Germany, Founded in 1984 in Niagara-on-the-Lake.100% Niagara grown and produced VQA wines crafted, owned and operated by the Konzelmann family. Tasting Boutique, Tours, Private Experiences, Cheese Platters, Full Production Facility, Barrel Cellar, Corporate Events, Special Event Dinners/Luncheons, Weddings, Lakefront Vineyard with view of Toronto, CN Tower, Rogers Centre. Proud Canadian first to place on 'Wine Spectators Top 100 List' ",
     "address": "1096 Lakeshore Rd, Niagara-on-the-Lake, Ontario L0S 1J0 Canada",
     "rating": "5",
-    "image": "https://project-2-api.herokuapp.com/images/image0.jpg"
+    "image": "http://localhost:8080/files/cute-cat.jpg"
   },
   {
     "id": "c05b9a93-8682-4ab6-aff2-92ebb4bbfc14",
@@ -13,7 +13,7 @@
     "about": "Reif Estate Winery invites you to experience outstanding Wines of Ontario produced from premium grape varieties using progressive and innovative wine making techniques combined with time honored traditions passed down over thirteen generations. The 125 acre estate winery has been producing world-class wines for over 20 years and was founded in the Niagara Peninsula in 1982. Reif Estate's philosophy that 'Great wines start in the vineyard' has been a commitment that has gained their wines over 150 international awards.",
     "address": "15608 Niagara Parkway, Niagara-on-the-Lake, Ontario L0S 1J0 Canada",
     "rating": "5",
-    "image": "https://project-2-api.herokuapp.com/images/image1.jpg"
+    "image": "http://localhost:8080/files/types-of-wine-643846a6a95b4.jpg"
   },
   {
     "id": "25ce5d91-a262-4dcf-bb87-42b87546bcfa",
