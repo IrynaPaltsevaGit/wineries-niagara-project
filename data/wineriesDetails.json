@@ -1,0 +1,83 @@
+[
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12b8",
+    "title": "Konzelmann Estate Winery",
+    "about": "Niagara's Only Lakefront Winery. Founded in 1893 outside of Stuttgart Germany, Founded in 1984 in Niagara-on-the-Lake.100% Niagara grown and produced VQA wines crafted, owned and operated by the Konzelmann family. Tasting Boutique, Tours, Private Experiences, Cheese Platters, Full Production Facility, Barrel Cellar, Corporate Events, Special Event Dinners/Luncheons, Weddings, Lakefront Vineyard with view of Toronto, CN Tower, Rogers Centre. Proud Canadian first to place on 'Wine Spectators Top 100 List' ",
+    "address": "1096 Lakeshore Rd, Niagara-on-the-Lake, Ontario L0S 1J0 Canada",
+    "rating": "5",
+    "website": "https://konzelmann.ca/",
+    "image": "http://localhost:8080/files/konzelmann.jpg"
+  },
+  {
+    "id": "c05b9a93-8682-4ab6-aff2-92ebb4bbfc14",
+    "title": "Reif Estate Winery",
+    "about": "Reif Estate Winery invites you to experience outstanding Wines of Ontario produced from premium grape varieties using progressive and innovative wine making techniques combined with time honored traditions passed down over thirteen generations. The 125 acre estate winery has been producing world-class wines for over 20 years and was founded in the Niagara Peninsula in 1982. Reif Estate's philosophy that 'Great wines start in the vineyard' has been a commitment that has gained their wines over 150 international awards.",
+    "address": "15608 Niagara Parkway, Niagara-on-the-Lake, Ontario L0S 1J0 Canada",
+    "rating": "5",
+    "website": "https://reifwinery.com/",
+    "image": "http://localhost:8080/files/reif.jpg"
+  },
+  {
+    "id": "25ce5d91-a262-4dcf-bb87-42b87546bcfa",
+    "title": "Peller Estates Winery",
+    "about": "Peller Estates has been crafting quality wines for Canadians for over 50 years. Whether poured around the dinner table at home, or enjoyed during an immersive wine and culinary experience at our award-winning Niagara-on-the-Lake winey, there is no greater honour than when our wines are shared with family and friends. Peller Estates' full range of Private Reserve whites, reds and sweet wines by Winemaker Katie Dickieson are always rich and approachable, while the Signature Series features age-worthy reds, award-winning Icewines and the unique Ice Cuvee sparkling wines, sweetened with a touch of Icewine. Experience wine country at the ultimate wine and food lover’s playground with tours and seminars throughout the day, including Niagara’s only igloo-like lounge where you’ll taste Icewine at -10C. Partake in a barrel cellar dinner, fine dining in the Winery Restaurant with Executive Chef Jason Parsons, or casual patio dining at Terrace Wine Bar. We look forward to welcoming you!",
+    "address": "290 John Street East, Niagara-on-the-Lake, Ontario L0S 1J0 Canada",
+    "rating": "4.5",
+    "website": "https://www.peller.com/",
+    "image": "http://localhost:8080/files/peller.jpg"
+  },
+  {
+    "id": "b6f35f03-7936-409b-bd2a-446bcc5f30e7",
+    "title": "Inniskillin Wines",
+    "about": "Many of those who appreciate and collect wine have discovered that a journey to the heart of wine country adds an indescribable dimension to the appreciation of the distinctiveness of each fine wine. In that spirit, Inniskillin invites you to fully experience our full VQA portfolio in Niagara-on-the-Lake. Experience firsthand the full range of our premium wines while enjoying spectacular sights, regional culinary specialties and outstanding hospitality in one of Canada's great natural treasures, the Niagara Peninsula. We look forward to toasting your arrival!",
+    "address": "1499 Line 3, Niagara-on-the-Lake, Ontario L0S 1J0 Canada",
+    "rating": "4.5",
+    "website": "https://www.inniskillin.com/",
+    "image": "http://localhost:8080/files/inniskillin.jpg"
+  },
+  {
+    "id": "1b964601-a6dd-4fcc-b5f3-1000338c9557",
+    "title": "Wayne Gretzky Estates",
+    "about": "There’s always something happening at Wayne Gretzky Estates. Choose from wine, whisky and beer tastings with a twist, interactive classes, memorable meals in our barrel cellar, festive fetes to celebrate special days, icy winter fun on our skating rink and so much more. If you’d prefer to take in all the excitement from the stands, that works too. Pull up a comfy chair at The Whisky Bar Patio or at The Beer Garden, let our mixologist pour you something to sip on and just sit back and watch all the fun unfold.",
+    "address": "1219 Niagara Stone Rd, Niagara-on-the-Lake, Ontario L0S 1J0 Canada",
+    "rating": "4.6",
+    "website": "https://waynegretzkyestates.com/?SID=tu9k8rvpi2kndmujp6bikfqqs5",
+    "image": "http://localhost:8080/files/gretzky.jpg"
+  },
+  {
+    "id": "9c268c0a-83dc-4b96-856a-bb5ded2772b1",
+    "title": "Colaneri Estate Winery",
+    "about": "Colaneri is a new family-owned and operated winery that hand-harvests the finest grapes to produce premium VQA award-winning wines from its surrounding vineyards. Most of the wines are made with the traditional Italian appassimento style of drying grapes, including a large portfolio of red, white and dessert wines. A new series has been introduced, made in the “recioto” style of making dessert wines. The winery is built in the Romanesque style featuring a captivating panoramic view of the vineyard and escarpment atop the St. David’s Bench appellation. The wine tasting bar overlooks the production area, allowing visitors to see the process. We, La famiglia Colaneri, are always on hand to share the experience and the passion that went into the making of our wines and our winery.",
+    "address": "1208 Concession 1 Rd, Niagara-on-the-Lake, Ontario L0S 1J0 Canada",
+    "rating": "4.5",
+    "website": "https://www.colaneriwines.com/",
+    "image": "http://localhost:8080/files/colaneri.jpg"
+  },
+  {
+    "id": "fc5261d1-58a0-47e4-9c19-2b7a1715fa1b",
+    "title": "Marynissen Estate Winery",
+    "about": "Marynissen Estates has its roots deeply embedded in the soil of Niagara on the Lake. Located at the base of the Niagara escarpment, the vineyard is home to the oldest commercial planting of Cabernet Sauvignon in Canada.",
+    "address": "1096 Lakeshore Rd, Niagara-on-the-Lake, Ontario L0S 1J0 Canada",
+    "rating": "4.5",
+    "website": "https://marynissen.com/",
+    "image": "http://localhost:8080/files/marynissen.jpg"
+  },
+  {
+    "id": "99478bed-6428-49ed-8eaa-f245a5414336",
+    "title": "Southbrook Vineyards",
+    "about": "Southbrook Vineyards is Canada's first certified organic and biodynamic winery. Located on the periphery of scenic Niagara-on-the-Lake, Southbrook houses a 150 acres of land with 67 acres of vines. Owners Bill & Marilyn Redelmeier have always strived for complex, age-worthy Chardonnays and Bordeaux-blends. With the help of winemaker, Casey Hogan, Southbrook has been producing award-winning wines, towards with a focus local and sustainable wine making. Stop in for a visit at the winery and learn about our LEED Gold Certified retail pavilion and winery, all the while enjoying a glass of our locally produced wines.",
+    "address": "581 Niagara Stone Rd Rr4, Niagara-on-the-Lake, Ontario L0S 1J0 Canada",
+    "rating": "4.55",
+    "website": "https://www.southbrook.com/",
+    "image": "http://localhost:8080/files/Southbrook.jpg"
+  },
+  {
+    "id": "76ca28c0-7dea-4553-887f-8e5129a80fc3",
+    "title": "De Simone Vineyards",
+    "about": "De Simone Vineyards is an award winning winery. We strives to produce ultra premium VQA wine, using 100% estate grown fruit, hand picking and crafted with traditional methods. Located 865 Niagara Stone Rd, in the heart of Niagara-On-The-Lake. 100% Estate Quality Wine 100% Delicious!",
+    "address": "865 Niagara Stone Rd, Niagara-on-the-Lake, Ontario L0S 1J0 Canada",
+    "rating": "5",
+    "website": "https://www.desimonevineyards.com/",
+    "image": "http://localhost:8080/files/desimone.jpg"
+  }
+]
